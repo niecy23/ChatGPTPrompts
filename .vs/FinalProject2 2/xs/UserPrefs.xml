@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{AD301F8C-38F6-4E02-AD2D-7C7FE8EBDE4B}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.FinalProject2 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="FinalProject2/Views/User/_UserTablePartial.cshtml">
+    <Files>
+      <File FileName="FinalProject2/Models/User.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="FinalProject2/Views/User/_UserTablePartial.cshtml" Line="1" Column="1" NotebookId="1" />
+      <File FileName="FinalProject2/Controllers/UserController.cs" Line="110" Column="1" NotebookId="1" />
+      <File FileName="FinalProject2/Views/User/UserIndex.cshtml" Line="55" Column="1" NotebookId="1" />
+    </Files>
+    <FloatingWindows>
+      <FloatingWindow WindowId="1" X="2327" Y="-212" Width="1573" Height="942">
+        <Files>
+          <File FileName="FinalProject2/Views/User/InsertUser.cshtml" Line="20" Column="1" />
+        </Files>
+      </FloatingWindow>
+    </FloatingWindows>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FinalProject2 2">
+            <Node name="FinalProject2">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="EventData" expanded="True" />
+                <Node name="User" expanded="True">
+                  <Node name="_UserTablePartial.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
